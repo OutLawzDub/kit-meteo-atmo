@@ -1,16 +1,3 @@
-## Installation
-
-Executez la commande
-
-```bash
-npm install
-```
-
-## Usage
-
-Il faut commencer par modifier le fichier de configuration ./config/ftp.json
-
-```json
 {
     "path": {
         "dev": "/kit-meteo/",
@@ -27,5 +14,3 @@ Il faut commencer par modifier le fichier de configuration ./config/ftp.json
         "password": "PASSWORD"
     }
 }
-
-```

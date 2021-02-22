@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "service": "gmail",
+        "auth": {
+            "user": "dscrdoutlawz@gmail.com",
+            "pass": "PASSWORD"
+        }
+    },
+    "production": {
+        "host": "localhost",
+        "port": 25,
+        "secure": false
+    }
+}
